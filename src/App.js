@@ -5,9 +5,9 @@ import { createStructuredSelector } from "reselect";
 
 /* -----------------------Pages----------------------- */
 
-import HomePage from "./pages/HomePage";
+import HomePage from "./pages/homepage";
 import SignInSignUpPage from "./pages/SignInPage-SignUpPage";
-import ShopPage from "./pages/ShopPage";
+import ShopPage from "./pages/shoppage";
 import NotFound from "./pages/NotFoundPage";
 import CheckOutPage from "./pages/CheckOutPage";
 import CollectionsPage from "./pages/CollectionsPage/CollectionContainer";
